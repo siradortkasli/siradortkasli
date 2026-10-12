@@ -53,11 +53,3 @@ I build **C#/.NET WPF** applications using **MVVM**, develop backend services wi
 ![Linux](https://img.shields.io/badge/Linux-0B1220?style=flat-square&logo=linux&logoColor=22D3EE)
 
 **Also working with:** `WPF` · `MVVM` · `REST API` · `TCP/UDP` · `WebSocket` · `MAVLink` · `GStreamer` · `FFmpeg`
-
----
-
-<div align="center">
-
-*Building reliable software, from user interfaces to connected systems.*
-
-</div>
